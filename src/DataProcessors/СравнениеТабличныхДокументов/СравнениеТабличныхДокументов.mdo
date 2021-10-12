@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b427fa32-a2ff-4767-aff6-d40ea2a29257">
+  <producedTypes>
+    <objectType typeId="c612d528-2bca-467d-b9b3-4889624e0246" valueTypeId="f517b230-71a5-4398-abc4-383e26b267b6"/>
+    <managerType typeId="2fe1958b-162d-4f08-93e5-56c46d69e101" valueTypeId="e62e71a2-adb6-4a6e-be41-96ff7f147066"/>
+  </producedTypes>
+  <name>СравнениеТабличныхДокументов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сравнение табличных документов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.СравнениеТабличныхДокументов.Form.Форма</defaultForm>
+  <forms uuid="16a35c95-80c2-4386-a33d-b71cacca0596">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="4784da7c-c146-4fe5-8b34-b206a018fbb1">
+    <name>Инициализация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Инициализация</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="f28066ba-e578-47cc-b501-f65b90583f76">
+    <name>Макет1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет1</value>
+    </synonym>
+  </templates>
+  <templates uuid="66526956-1d10-4fcc-a14f-b0c30f440256">
+    <name>Макет2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет2</value>
+    </synonym>
+  </templates>
+  <templates uuid="d28575b0-be11-48ba-92e9-73de0e3afd69">
+    <name>Заголовок</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заголовок</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:DataProcessor>

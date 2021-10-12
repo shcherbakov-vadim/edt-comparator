@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="68790786-0949-4132-8186-f9efe21986b5">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="7592a213-83b5-4b74-bc30-28cbd99c7ad5"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="cd6c4605-fdc9-42c9-b170-b399e18c3491"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="34660b80-6c80-472f-9ca6-383eadf6264a"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="c955357a-769e-42f7-bd98-991b642b32f2"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="98bc72d2-6633-4f98-b365-2f96dfdb0889"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="58a96081-d1b5-482a-a809-dce593faddf2"/>
+  <configurationExtensionCompatibilityMode>8.3.16</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <requiredMobileApplicationPermissions>
+    <permission>AllowOSBackup</permission>
+    <use>true</use>
+  </requiredMobileApplicationPermissions>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>UseWithWarnings</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>UseWithWarnings</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="7c6af2b3-ad62-4732-ae6d-79a3428096c0">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.НастройкиКлиентСерверПереопределяемый</commonModules>
+  <dataProcessors>DataProcessor.СравнениеТабличныхДокументов</dataProcessors>
+</mdclass:Configuration>
