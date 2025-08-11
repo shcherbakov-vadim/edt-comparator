@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="807201d6-4c13-4c9a-a717-be8392d0423b">
+  <producedTypes>
+    <refType typeId="e6c135a1-58f2-454e-a8d3-db14c28da575" valueTypeId="52733fdb-37e0-48d7-b3ee-83d45e395484"/>
+    <listType typeId="85ac0a3e-bc42-401f-89cb-2055049bad4f" valueTypeId="dbbfbac9-e735-4ccc-97d1-e86f4d301f1e"/>
+    <managerType typeId="43b58729-c011-43fa-a81f-3a80a441114d" valueTypeId="3d2197c8-492b-4610-a0c6-51b2d578ff89"/>
+  </producedTypes>
+  <name>СпособРаботыСEDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Способ работы с EDT</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="74ef4ad2-403d-454a-9ab7-06ac192c7004">
+    <name>ring</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ring</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="cd4bb7f7-ad42-46cb-b357-e872c82adf6e">
+    <name>CLI</name>
+    <synonym>
+      <key>ru</key>
+      <value>CLI</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

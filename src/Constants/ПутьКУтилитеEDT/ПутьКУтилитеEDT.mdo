@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4654d49e-20d7-48f9-94cf-5cc05a4c534d">
+  <producedTypes>
+    <managerType typeId="49d88f93-bac1-4cba-988f-65d0e40b7132" valueTypeId="a7375553-fa20-49c4-a0c2-3c55433949c9"/>
+    <valueManagerType typeId="d9aefd97-f3c1-40bb-ad80-ed966524a5f3" valueTypeId="12d9d819-9cae-4d4c-a7ca-ea88c15a9023"/>
+    <valueKeyType typeId="6484c633-4b91-4876-bcfe-3ac88e77914b" valueTypeId="428a6f7e-a760-48e5-9b74-7d201c5e3e46"/>
+  </producedTypes>
+  <name>ПутьКУтилитеEDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Путь к утилите EDT</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers/>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7f3b997b-e88f-4112-bed6-12a47e799061">
+  <producedTypes>
+    <managerType typeId="764bd3a4-9a50-44c3-9d8d-37cf92825479" valueTypeId="66e2677f-ab68-4e7b-8a80-382faaa0d198"/>
+    <valueManagerType typeId="e57679cb-7650-4c49-bd02-d276886947bb" valueTypeId="53654478-6594-4534-88f0-19e748fa1d1d"/>
+    <valueKeyType typeId="5773ff76-8e7b-4718-b990-d6b5746b9771" valueTypeId="6ebadecf-4e20-4681-90d3-42f424de52ef"/>
+  </producedTypes>
+  <name>ОсновнаяКомандаТрехстороннегоСравнения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Основная команда трехстороннего сравнения</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers/>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

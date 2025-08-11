@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="162a8e1a-deaf-42fd-84ce-d42109311c4e">
+  <producedTypes>
+    <managerType typeId="00956eaa-6ad2-469d-a923-8c6e69b048fc" valueTypeId="e4209d46-9d2a-4abc-a13b-0fc02a535db8"/>
+    <valueManagerType typeId="7c80d555-25a0-4e1d-99fc-42c8cae31df2" valueTypeId="abc08ebf-7cf8-4f90-b18a-5b1ba04c0d1c"/>
+    <valueKeyType typeId="e0671132-7fbb-45b2-9147-52ea715d0c07" valueTypeId="2ea58162-c53d-432d-b40e-a4f9fd6b14c9"/>
+  </producedTypes>
+  <name>ПоказыватьРазличияВМодальномРежиме</name>
+  <synonym>
+    <key>ru</key>
+    <value>Показывать различия в модальном режиме</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

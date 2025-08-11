@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e1a9dede-88c2-485f-ae56-363b412bd09a">
+  <producedTypes>
+    <managerType typeId="4a4dd4d2-95bd-4c2e-9c0c-53600d00da22" valueTypeId="bc2547ed-2932-432e-8e40-6021a392b3d8"/>
+    <valueManagerType typeId="2dae1086-fe1d-4729-a314-e723b760a362" valueTypeId="f2ddab7f-4f16-418f-b012-6eb8c1b25801"/>
+    <valueKeyType typeId="9a642f5b-5fd5-4fd1-8ac1-3c13a769dfe5" valueTypeId="1f59183e-a63b-4f99-bb96-1b1c69aa3f59"/>
+  </producedTypes>
+  <name>ВерсияEDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Версия EDT</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

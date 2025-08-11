@@ -9,22 +9,12 @@
     <key>ru</key>
     <value>Сравнение табличных документов</value>
   </synonym>
-  <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.СравнениеТабличныхДокументов.Form.Форма</defaultForm>
   <forms uuid="16a35c95-80c2-4386-a33d-b71cacca0596">
     <name>Форма</name>
     <synonym>
       <key>ru</key>
       <value>Форма</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
-  <forms uuid="4784da7c-c146-4fe5-8b34-b206a018fbb1">
-    <name>Инициализация</name>
-    <synonym>
-      <key>ru</key>
-      <value>Инициализация</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
@@ -44,10 +34,10 @@
     </synonym>
   </templates>
   <templates uuid="d28575b0-be11-48ba-92e9-73de0e3afd69">
-    <name>Заголовок</name>
+    <name>Настройки</name>
     <synonym>
       <key>ru</key>
-      <value>Заголовок</value>
+      <value>Настройки</value>
     </synonym>
     <templateType>TextDocument</templateType>
   </templates>

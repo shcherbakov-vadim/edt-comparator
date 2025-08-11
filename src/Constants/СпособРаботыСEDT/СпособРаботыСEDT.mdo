@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="695604da-a824-4d32-a3fe-c9a826715a02">
+  <producedTypes>
+    <managerType typeId="c50e6922-2640-44f6-897e-7e836ccad731" valueTypeId="4d60b16a-8792-4423-9f6e-aa0962b3e259"/>
+    <valueManagerType typeId="a0d14002-5b47-4a1d-940d-b2c754b113b3" valueTypeId="c8fdd568-7ffa-4312-b4f4-164719e66899"/>
+    <valueKeyType typeId="bcfa800c-47be-452d-8bb1-a705de7fcb63" valueTypeId="a8af5ee8-5d5d-465e-9af4-f2b4852ea92b"/>
+  </producedTypes>
+  <name>СпособРаботыСEDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Способ работы с EDT</value>
+  </synonym>
+  <type>
+    <types>EnumRef.СпособРаботыСEDT</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
