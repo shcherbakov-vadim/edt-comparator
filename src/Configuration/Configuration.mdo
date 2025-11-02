@@ -12,7 +12,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Щербаков Вадим</vendor>
-  <version>1.0.1.1</version>
+  <version>1.0.2.1</version>
   <updateCatalogAddress>https://github.com/shcherbakov-vadim/edt-comparator</updateCatalogAddress>
   <requiredMobileApplicationPermissions>
     <permission>AllowOSBackup</permission>
